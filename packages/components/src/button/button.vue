@@ -7,5 +7,5 @@
  * @Email: xoxosos666@gmail.com
 -->
 <template>
-    <button>测试按钮</button>
+    <button><slot></slot></button>
 </template>
