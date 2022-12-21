@@ -1,0 +1,24 @@
+{
+  "name": "newest-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "newest-ui",
+    "vue3组件库"
+  ],
+  "author": "LinRenJie",
+  "license": "MIT",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "@newest-ui/utils": "workspace:^1.0.0"
+  }
+}
